@@ -1,0 +1,7 @@
+C:\Users\Sarah\Kenan\PacketTracerRecovery-master\bin\Debug\PacketTracerPatcher.exe
+C:\Users\Sarah\Kenan\PacketTracerRecovery-master\bin\Debug\PacketTracerPatcher.pdb
+C:\Users\Sarah\Kenan\PacketTracerRecovery-master\obj\Debug\PacketTracerPatcher.csproj.AssemblyReference.cache
+C:\Users\Sarah\Kenan\PacketTracerRecovery-master\obj\Debug\PacketTracerPatcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sarah\Kenan\PacketTracerRecovery-master\obj\Debug\PacketTracerPatcher.csproj.CoreCompileInputs.cache
+C:\Users\Sarah\Kenan\PacketTracerRecovery-master\obj\Debug\PacketTracerPatcher.exe
+C:\Users\Sarah\Kenan\PacketTracerRecovery-master\obj\Debug\PacketTracerPatcher.pdb
